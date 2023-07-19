@@ -8,7 +8,7 @@ $('#tmSlider').owlCarousel({
     loop:true,
     nav:true,
     autoplay: true,
-    autoplayTimeout: 3000,
+    autoplayTimeout: 2000,
     navText: ['<i class="fa-solid fa-arrow-left"></i>', '<i class="fa-solid fa-arrow-right"></i>'],
     responsive:{
         0:{
